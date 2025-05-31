@@ -137,7 +137,7 @@ with app.app_context():
     *.pyc
     *.db
 
-🙏 Acknowledgements
+ Acknowledgements
     Flask
     SQLAlchemy
     python-dotenv
